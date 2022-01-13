@@ -1509,7 +1509,7 @@ h6 {
     font-family: inherit;
     font-weight: 500;
     line-height: 1.1;
-    color: inherit
+    color: black
 }
 
 .h1 .small,
@@ -1859,7 +1859,7 @@ abbr[title] {
 blockquote {
     padding: 10px 20px;
     margin: 0 0 20px;
-    font-size: 17.5px;
+    font-size: 14.5px;
     border-left: 5px solid #eee
 }
 

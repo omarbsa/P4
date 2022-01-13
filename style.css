@@ -651,7 +651,7 @@ label,
 a {
     font-family: "helvetica";
     font-weight: 400;
-    color: #575757!important;
+    color: black;
 }
 
 .container {
@@ -677,7 +677,7 @@ a {
 }
 
 p {
-    font-size: 11px;
+    font-size: 15px;
 }
 
 .tight-width-whitespace {
@@ -707,6 +707,7 @@ p {
 h2 {
     font-size: 22px;
     line-height: 1.4em;
+    color:black ;
 }
 
 h3 {
@@ -723,7 +724,7 @@ h3 {
 }
 
 h1 {
-    color: #333333!important;
+    color: #ffffff!important;
 }
 
 h4 {
@@ -753,7 +754,7 @@ h4 {
 }
 
 .black-background {
-    background-color: rgba(165, 147, 99, 0.7);
+    background-color: rgba(193, 161, 81, 0.74);
     padding: 40px 40px 40px 40px;
 }
 
@@ -775,8 +776,13 @@ h4 {
 }
 
 .tc-white {
-    color: #F3976C!important;
+    color:white;
 }
+.col-sm-12 h2
+{
+    color: black;
+}
+
 
 .btn-atomic-tangerine {
     background: #F3976C;
