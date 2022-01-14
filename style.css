@@ -507,6 +507,10 @@ button {
 {
     margin-bottom:10px ;
 }
+.col-sm-12 p 
+{
+    font-size: 18px;
+}
 
 .panel-sq,
 .panel-sq .panel-heading,
