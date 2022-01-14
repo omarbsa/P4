@@ -511,7 +511,7 @@ button {
 }
 .col-sm-12 p 
 {
-    font-size: 18px;
+    font-size: 20px;
 }
 
 .panel-sq,
@@ -704,7 +704,7 @@ a {
 }
 
 p {
-    font-size: 15px;
+    font-size: 18px;
 }
 
 .tight-width-whitespace {
@@ -762,9 +762,9 @@ h4 {
     margin-bottom: 14px;
     margin-top: 24px;
 }
-
-.white {
-    color: #FFFFFF!important;
+#auteur 
+{
+    color: #000000;
 }
 
 .portfolio-thumb {
