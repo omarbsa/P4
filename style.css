@@ -306,7 +306,7 @@ a:hover {
     margin: 0 5px 0 0;
     display: inline;
     height: 40px;
-    width: 30%;
+    width: auto;
 }
 
 .navbar-brand img[src$=svg] {
