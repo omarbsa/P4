@@ -376,7 +376,7 @@ a
 .img-responsive 
 {
     width:100% ;
-    height: auto;
+    height: 290px;
 }
 
 @media (min-width: 768px) {
