@@ -373,6 +373,11 @@ a
     position: relative;
     z-index: 2;
 }
+.portfolio-thumb
+{
+    width:100% ;
+    height: auto;
+}
 
 @media (min-width: 768px) {
     .site-navigation {
