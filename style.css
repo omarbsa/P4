@@ -1064,6 +1064,10 @@ footer
         width: 180px;
         height: 320px;
     }
+    .icon-md
+    {
+        margin-bottom:20px ;
+    }
 }
 
 @media (max-width: 400px) {
