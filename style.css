@@ -373,7 +373,7 @@ a
     position: relative;
     z-index: 2;
 }
-.portfolio-thumb
+.img-responsive 
 {
     width:100% ;
     height: auto;
