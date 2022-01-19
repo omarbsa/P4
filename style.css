@@ -772,6 +772,11 @@ h4 {
     width:100% ;
     height: auto;
 }
+.img-responsive .portfolio-thumb
+{
+    width:100% ;
+    height: auto;
+}
 
 .portfolio-row {
     margin-bottom: 44px;
