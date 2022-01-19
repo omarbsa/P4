@@ -721,9 +721,9 @@ p {
     margin-top: 22px;
     color: #FFFFFF!important;
     text-transform: uppercase;
-    padding: 12px 28px 12px 28px;
     font-size: 16px;
     font-weight: 700;
+    width: 25%;
 }
 
 .social {
@@ -867,10 +867,6 @@ footer
 }
 
 @media (max-width: 1024px) {
-    .bloc {
-        padding-left: 20px;
-        padding-right: 20px;
-    }
     .bloc.full-width-bloc,
     .bloc-tile-2.full-width-bloc .container,
     .bloc-tile-3.full-width-bloc .container,
@@ -923,6 +919,11 @@ footer
     {
         padding: 0 20px;
     }
+    .cta-hero
+    {
+        width: 33%;
+    }
+
 }
 
 @media (max-width: 767px) {
@@ -1074,10 +1075,15 @@ footer
         padding-left: 0;
         padding-right: 0;
     }
+
 }
 
 @media (max-width: 767px) {
     .bloc-mob-center-text {
         text-align: center;
+    }
+    .cta-hero
+    {
+        width: 30%;
     }
 }
