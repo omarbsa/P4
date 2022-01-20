@@ -679,6 +679,7 @@ a {
     font-family: "helvetica";
     font-weight: 400;
     color: black;
+    font-size:18px ;
 }
 
 .container {
@@ -705,6 +706,7 @@ a {
 
 p {
     font-size: 18px;
+    padding:20px ;
 }
 
 .tight-width-whitespace {
