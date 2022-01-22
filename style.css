@@ -42,6 +42,7 @@ a:hover {
 .bloc .container {
     padding-left: 0;
     padding-right: 0;
+    width: 100%;
 }
 
 .bloc-lg {
@@ -928,7 +929,7 @@ footer
     }
     .cta-hero
     {
-        width: 33%;
+        width: 25%;
     }
 
 }
@@ -1091,6 +1092,6 @@ footer
     }
     .cta-hero
     {
-        width: 30%;
+        width: 35%;
     }
 }
