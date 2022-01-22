@@ -1,3 +1,14 @@
+# Hotlinking banni
+RewriteEngine on
+RewriteCond %{HTTP_REFERER} !^$
+RewriteCond %{HTTP_REFERER} !^http:// www.domaine /.*$ [NC] [OR]
+RewriteCond %{HTTP_REFERER} !^http://www.domaine /.*$ [NC] [OR]
+RewriteRule .*\.(gif|wepb|jpg|JPG|bmp|BMP|wav|mp3|wmv|avi|mpeg)$ - [F]
+
+RewriteEngine on
+RewriteCond %{HTTP_HOST } !^www\.
+RewriteRule^(.*)$ http//{ HTTP_HOST}/$1 [R=301,L]
+
 <IfModule mod_headers.c>
 <FilesMatch “\.(wepb|jpeg|jpg|png|css|js)$”>
 Header set Cache-Control “max-age=604800, public”
