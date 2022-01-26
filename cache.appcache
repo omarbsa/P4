@@ -6,7 +6,7 @@
   "dislay": "standalone",
   "icons": [
     {
-      "src": "/img/4_1.webp",
+      "src": "P4/img/4_1.webp",
       "type": "image/webp",
       "sizes": "512x512"
     }
