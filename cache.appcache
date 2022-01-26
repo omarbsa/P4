@@ -6,9 +6,9 @@
   "dislay": "standalone",
   "icons": [
     {
-      "src": "/img/la-chouette-agence-banniere.webp",
+      "src": "/img/4_1.webp",
       "type": "image/webp",
-      "sizes": "1920x785"
+      "sizes": "270x270"
     }
 ],
    "start_url": "index.html?laucher=homescreen"
