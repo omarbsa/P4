@@ -3,7 +3,7 @@
   "name": "chouette agence",
   "theme_color": "#eb5252",
   "background_color": "#000000",
-  "dislay":"standalone",
+  "dislay": "standalone",
   "icons": [
     {
       "src": "/img/la-chouette-agence-banniere.webp",
