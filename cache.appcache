@@ -5,6 +5,10 @@
     {
       "src": "/img/la-chouette-agence-banniere.webp",
       "type": "image/webp"
+      "size": "512x512"
+      <meta name="theme-color" media="(prefers-color-scheme: light)" content="white">
+<meta name="theme-color" media="(prefers-color-scheme: dark)"  content="black">
+
     }
 
 ] }
