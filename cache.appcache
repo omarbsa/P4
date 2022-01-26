@@ -2,7 +2,7 @@
   "short_name": "chouette agence",
   "name": "chouette agence",
   "theme_color":"#eb5252",
-  "background_color":#000000",
+  "background_color":"#000000",
   "icons": [
     {
       "src": "/img/la-chouette-agence-banniere.webp",
