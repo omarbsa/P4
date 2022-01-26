@@ -1,4 +1,11 @@
-MANIFESTE DE CACHE 
-/css/
-/js/
-/img/la-chouette-agence-banniere.webp
+
+{
+  "short_name": "chouette agence",
+  "name": "chouette agence",
+  "icons": [
+    {
+      "src": "/img/la-chouette-agence-banniere.webp",
+      "type": "image/webp",
+    },
+
+] }
