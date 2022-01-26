@@ -1,12 +1,12 @@
 {
   "short_name": "chouette agence",
   "name": "chouette agence",
-  "theme_color":"#eb5252"
-  "background_color":#000000
+  "theme_color":"#eb5252",
+  "background_color":#000000",
   "icons": [
     {
       "src": "/img/la-chouette-agence-banniere.webp",
       "type": "image/webp",
-      "size": "1920x785"
+      "sizes": "1920x785"
     }
 ] }
