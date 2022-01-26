@@ -1,11 +1,10 @@
-
 {
   "short_name": "chouette agence",
   "name": "chouette agence",
   "icons": [
     {
       "src": "/img/la-chouette-agence-banniere.webp",
-      "type": "image/webp",
-    },
+      "type": "image/webp"
+    }
 
 ] }
