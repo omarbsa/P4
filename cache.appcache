@@ -10,9 +10,14 @@
       "src": "/img/logo.webp",
       "type": "image/webp",
       "sizes": "100x100"
+    },
+    {
+      "src": "/img/la chouette-agence-banniere.webp",
+      "type": "image/webp",
+      "sizes": "1920x785"
     }
 ],
    "start_url": "index.html?laucher=homescreen"
    
 }
-js/jquery-2.1.0.min.js
+
