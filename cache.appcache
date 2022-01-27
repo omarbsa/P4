@@ -7,9 +7,9 @@
   "background_color": "#000000",
   "icons": [
     {
-      "src": "/img/3.webp",
+      "src": "/img/logo.webp",
       "type": "image/webp",
-      "sizes": "270x270"
+      "sizes": "100x100"
     }
 ],
    "start_url": "index.html?laucher=homescreen"
